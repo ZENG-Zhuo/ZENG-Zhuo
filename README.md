@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -20,21 +20,21 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Code is read much more often than it is written.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently pursuing a Master's degree in **New York University**.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
+<!--- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 📝 I regularly write articles on [Hashnode](https://ZENG-Zhuo.hashnode.dev/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**-->
 
 - 📫 Feel free to reach me out **zhuozeng76@gmail.com**
 
@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,cs,cpp,c,cmake,docker,discord,dotnet,eclipse,git,github,gradle,html,java,js,ts,kali,kubernetes,linkedin,linux,md,maven,mysql,nodejs,nginx,npm,opencv,ae,pr,postman,py,pytorch,qt,react,spring,stackoverflow,scala,tensorflow,ubuntu,unity,vim,vscode&perline=12" />
   </a>
 </p>
 
@@ -123,5 +123,3 @@
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
